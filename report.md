@@ -1,7 +1,7 @@
 # Dynamic Regular Expression String Generator
 
 ### Course: Formal Languages & Finite Automata
-### Author: Oberst Eduard
+### Author: Oberst Eduard FAF-243
 
 ---
 
